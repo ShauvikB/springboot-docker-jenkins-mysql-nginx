@@ -1,6 +1,6 @@
 # springboot-docker-jenkins-mysql-nginx
 Repository URL
-https://github.com/arunds/springboot-docker-jenkins-mysql-nginx.git
+https://github.com/ShauvikB/springboot-docker-jenkins-mysql-nginx.git
 
 springboot application with docker, jenkins, mysql and nginx
 
